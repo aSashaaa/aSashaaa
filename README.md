@@ -1,4 +1,5 @@
 ## Hi, I'm Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 Welcome to my portfolio! </br>
 I'm Mark Parajos, an enthusiast game developer from <img src="https://images.emojiterra.com/twitter/512px/1f1ed-1f1fa.png" width="13"/>**Budapest, Hungary**.
 
@@ -9,4 +10,7 @@ I'm Mark Parajos, an enthusiast game developer from <img src="https://images.emo
   <img alt = "NodeJS" src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt = "MySQL" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
+
+### Listen with me!
+<a href = "https://spotify-github-profile.vercel.app/api/view?uid=parajos.mark&redirect=true"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=parajos.mark&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true"></a>
 
